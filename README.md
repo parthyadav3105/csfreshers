@@ -2,18 +2,18 @@
 
 
 ## Table of Contents
-0. Welcome
-1. About
-2. Learn your first language
-3. Learning basics
-4. Online coding competitions
-5. Technologies
-6. Go to Hackathons
-7. Join developer communities in your area
-8. Open source contributions
-9. Internships
-10. Bug Bounty Programs
-11. Thank you!!
+0. [Welcome](#welcome-)
+1. [About](#about)
+2. [Learn your first language](#learning-your-first-language)
+3. [Learning basics](#learning-basics)
+4. [Online coding competitions](#online-coding-competitions)
+5. [Technologies](#technologies)
+6. [Go to Hackathons](#go-to-hackathons)
+7. [Join developer communities in your area](#join-developer-communities-in-your-area)
+8. [Open source contributions](#open-source-contributions)
+9. [Internships](#internships)
+10. [Bug Bounty Programs](#bug-bounty-programs)
+11. [Thank you!!](#thank-you-)
 
 
 
