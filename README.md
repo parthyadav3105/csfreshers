@@ -34,10 +34,11 @@ If your programming concepts are clear and you have a strong foundation in your 
 ### Learning basics
 Once you feel comfortable with making your console type school management programs, then its time you learn some basics like-<br>
 * Data Structures
-* Algorithms
-* Basic HTML5, CSS3
+* Algorithms - [Geeks-for-Geeks](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+* Basic HTML5, CSS3 - [W3-School](https://www.w3schools.com/html/default.asp)
 * JSON, YAML
-* Git - the version control system
+* Docker - [Docker](https://docs.docker.com/get-started/)
+* Git - the version control system - [Git-braching](https://learngitbranching.js.org/)
 
 
 ### Online coding competitions
@@ -77,7 +78,7 @@ Check [this](https://github.com/ayonroy2000/Hackathonistas_TelegramGroup/blob/ma
 Usually there will be some programming communities in your area which you can join.<br>
 These communities-
  1. Conducts some Meetups, Workshops, Conferences monthly which you can attend and meet new people.
- 2. Usually have a group on telegram/WhatsApp which you can join.
+ 2. Usually have a group on **telegram/WhatsApp** which you can join.
  
  
 You can get to know about meetups from [meetup.com](https://www.meetup.com/).
@@ -93,7 +94,7 @@ Check this awesome [list](https://github.com/tapaswenipathak/Open-Source-Interns
 
 
 ### Bug Bounty Programs
-In bug bounty programs you have to find bugs and you get paid for reporting bugs, especially those pertaining to exploits and vulnerabilities.
+In bug bounty programs you have to find bugs and you get paid for reporting bugs, especially those pertaining to exploits and vulnerabilities. Bountiful Open Source Summer [Link to BOSS](https://lab.codingblocks.com/boss)
 
 
 ### Personal note
