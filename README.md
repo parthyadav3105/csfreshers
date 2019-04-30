@@ -97,8 +97,6 @@ Check this awesome [list](https://github.com/tapaswenipathak/Open-Source-Interns
 In bug bounty programs you have to find bugs and you get paid for reporting bugs, especially those pertaining to exploits and vulnerabilities. Bountiful Open Source Summer [Link to BOSS](https://lab.codingblocks.com/boss)
 
 
-### 
-
 ### Personal note
 Read as much as you can. Don't wait for anyone to come and teach something. Just go to the web and start learning.
 
