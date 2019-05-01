@@ -33,7 +33,7 @@ If your programming concepts are clear and you have a strong foundation in your 
 
 ### Learning basics
 Once you feel comfortable with making your console type school management programs, then its time you learn some basics like-<br>
-* Data Structures
+* Data Structures - [Geeks-for-Geeks](https://www.geeksforgeeks.org/data-structures/)
 * Algorithms - [Geeks-for-Geeks](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 * Basic HTML5, CSS3 - [W3-School](https://www.w3schools.com/html/default.asp)
 * JSON, YAML
