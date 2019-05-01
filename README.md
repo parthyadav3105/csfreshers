@@ -58,12 +58,13 @@ Some Online Coding competition sites are-
 
 ### Technologies
 Quickly google these technologies and try understand what these are-
-* Machine Learning
+* Machine Learning, Deep Learning
 * Blockchain
 * Serverless
 * Augmented reality(AR) and virtual reality(VR)
 * Multi-access Edge Computing(MEC)
 * Quantum Computing
+* SDN, NVF, VNF
 
 
 ### Go to Hackathons
