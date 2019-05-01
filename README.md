@@ -1,4 +1,4 @@
-# csfreshers
+# CS-Freshers
 
 
 ## Table of Contents
