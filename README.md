@@ -104,7 +104,7 @@ Read as much as you can. Don't wait for anyone to come and teach something. Just
 
 ### Thank you !!
 I thank you for reading this long :)
-[Parth Yadav](https://twitter.com/@Asha_Seema_)
+[Parth Yadav](https://twitter.com/Asha_Seema_)
 
 
 
