@@ -10,8 +10,8 @@
 5. [Technologies](#technologies)
 6. [Go to Hackathons](#go-to-hackathons)
 7. [Join developer communities in your area](#join-developer-communities-in-your-area)
-8. [Open source contributions](#open-source-contributions)
-9. [Meetups](#meetups)
+8. [Meetups](#meetups)
+9. [Open source contributions](#open-source-contributions)
 10. [Internships](#internships)
 11. [Bug Bounty Programs](#bug-bounty-programs)
 12. [Thank you!!](#thank-you-)
@@ -95,7 +95,7 @@ You can get to know about meetups from [meetup.com](https://www.meetup.com/).
 This the most beautiful part of whole developer community. Open source is the fuel that runs our world. Start contributing to open source. Ways you can contribute to a opensource projects -
 1. Report a bug to the project’s issue tracker
 2. Submit suggestions for features
-3. Answer a question publicly as a to help new people
+3. Answer a question publicly as a help to new people
 4. Blog and tweet about it
 5. Attend or volunteer its meetup
 6. Verify and document bugs
