@@ -54,6 +54,8 @@ Some Online Coding competition sites are-
 * [Codechef](https://www.codechef.com/)
 * [HackerEarth](https://www.hackerearth.com/challenges/)
 * [HackerRank](https://www.hackerrank.com/contests)
+* [TopCoder](https://www.topcoder.com/)
+* There are many others that can be added to make this list very long. So go [here](https://github.com/anu0012/awesome-computer-science-opportunities#competitive-programming) for more.
 
 
 ### Technologies
@@ -86,8 +88,16 @@ You can get to know about meetups from [meetup.com](https://www.meetup.com/).
 
 
 ### Open Source Contributions
-This the most beautiful part of whole developer community. Open source is the fuel that runs our world. Start contributing to open source.
-
+This the most beautiful part of whole developer community. Open source is the fuel that runs our world. Start contributing to open source. Ways you can contribute to a opensource projects -
+1. Report a bug to the project’s issue tracker
+2. Submit suggestions for features
+3. Answer a question publicly as a to help new people
+4. Blog and tweet about it
+5. Attend or volunteer its meetup
+6. Verify and document bugs
+7. Write an example for the documentation
+8. Contribute through Code
+This is [blog](https://blog.newrelic.com/engineering/open-source_gettingstarted/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+NewRelic+%28New+Relic+Blog%29) by Andy Lester.
 
 ### Internships
 Please do not waste your vacations. Apply for internships of your interest when their applications open.
@@ -95,7 +105,7 @@ Check this awesome [list](https://github.com/tapaswenipathak/Open-Source-Interns
 
 
 ### Bug Bounty Programs
-In bug bounty programs you have to find bugs and you get paid for reporting bugs, especially those pertaining to exploits and vulnerabilities. Bountiful Open Source Summer [Link to BOSS](https://lab.codingblocks.com/boss)
+In bug bounty programs you have to find bugs and you get paid for reporting bugs, especially those pertaining to exploits and vulnerabilities.
 
 
 ### Personal note
@@ -104,6 +114,7 @@ Read as much as you can. Don't wait for anyone to come and teach something. Just
 
 ### Thank you !!
 I thank you for reading this long :)
+Star if you like.
 [Parth Yadav](https://twitter.com/Asha_Seema_)
 
 
