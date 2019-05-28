@@ -11,9 +11,10 @@
 6. [Go to Hackathons](#go-to-hackathons)
 7. [Join developer communities in your area](#join-developer-communities-in-your-area)
 8. [Open source contributions](#open-source-contributions)
-9. [Internships](#internships)
-10. [Bug Bounty Programs](#bug-bounty-programs)
-11. [Thank you!!](#thank-you-)
+9. [Meetups](#meetups)
+10. [Internships](#internships)
+11. [Bug Bounty Programs](#bug-bounty-programs)
+12. [Thank you!!](#thank-you-)
 
 
 
@@ -83,8 +84,11 @@ These communities-
  1. Conducts some Meetups, Workshops, Conferences monthly which you can attend and meet new people.
  2. Usually have a group on **telegram/WhatsApp** which you can join.
  
- 
+### Meetups
+Go to meetups.
+
 You can get to know about meetups from [meetup.com](https://www.meetup.com/).
+
 
 
 ### Open Source Contributions
@@ -97,7 +101,8 @@ This the most beautiful part of whole developer community. Open source is the fu
 6. Verify and document bugs
 7. Write an example for the documentation
 8. Contribute through Code
-This is [blog](https://blog.newrelic.com/engineering/open-source_gettingstarted/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+NewRelic+%28New+Relic+Blog%29) by Andy Lester.
+
+Read this is [blog](https://blog.newrelic.com/engineering/open-source_gettingstarted/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+NewRelic+%28New+Relic+Blog%29) by Andy Lester for more on getting started to opensouce.
 
 ### Internships
 Please do not waste your vacations. Apply for internships of your interest when their applications open.
@@ -114,7 +119,9 @@ Read as much as you can. Don't wait for anyone to come and teach something. Just
 
 ### Thank you !!
 I thank you for reading this long :)
+
 Star if you like.
+
 [Parth Yadav](https://twitter.com/Asha_Seema_)
 
 
