@@ -27,7 +27,7 @@ A guide-page for all freshers who just took Computer Science as a major.
 
 
 ### Learning your first language
-While learning you first language, kindly give more time practicing it and understanding what happens in that black-box of 17x7x18 inch when you double click a program that you just wrote.
+While learning you first language, kindly give more time practicing it and understanding what happens in that black-box when you double click a program that you just wrote.
 
 If your programming concepts are clear and you have a strong foundation in your first language, then learning a new language will just be a matter of 7 to 8 hours max.
 
