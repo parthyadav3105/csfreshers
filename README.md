@@ -55,6 +55,7 @@ Cool, if by now you have completed [Learn your first language](#learning-your-fi
 By now you may have completed your first semester and you have learnt to code properly and know some basics. So, you are looking forward to practising your knowledge. You have two options:
 * [Online coding competitions](#online-coding-competitions), (which is my next topic) and
 * Making some projects
+
 Here is a good list of [projects ideas](https://www.freecodecamp.org/news/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a/) that you can make. You can also, add your project's repositories to your GitHub account. You can share these repositories link with others to give them an idea about your skills.
 
 ### Online coding competitions
