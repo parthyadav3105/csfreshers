@@ -12,7 +12,7 @@
 7. [Go to Hackathons](#go-to-hackathons)
 8. [Join developer communities in your area](#join-developer-communities-in-your-area)
 9. [Meetups](#meetups)
-10. [Open source contributions](#open-source-contributions)
+10. [Open-source contributions](#open-source-contributions)
 11. [Internships](#internships)
 12. [Bug Bounty Programs](#bug-bounty-programs)
 13. [Thank you!!](#thank-you-)
@@ -30,11 +30,11 @@ Also, the order of topics kept in focus for beginners for those who are not sure
 
 
 ### Learning your first language
-While learning you first language, kindly give more time practicing it. Make your fundamentals strong and improve for coding style, learn to add better comments. Then moving further try to write optimised code.
+While learning your first language, kindly give more time to practising it. Make your fundamentals strong and improve for coding style, learn to add better comments. Then moving further try to write optimised code.
 
 If your programming concepts are clear and you have a strong foundation in your first language, then learning a new language will just be a matter of 7 to 8 hours max.
 
-Here are few good reads for better conding style:
+Here are a few good reads for a better coding style:
 * [Good coding style](http://www.inf.unibz.it/~nutt/Teaching/DSA1819/DSAAssignments/good-coding-style.html)
 * [15 best practices for writing readable code](https://code.tutsplus.com/tutorials/top-15-best-practices-for-writing-super-readable-code--net-8118)
 
