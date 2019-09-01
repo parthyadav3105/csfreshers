@@ -78,9 +78,9 @@ Some Online Coding competition sites are-
 ### Technologies
 Ok, so you have done above said things, cool!
 
-But now what? keep making useless project doesn't make sense and now you are in your 2nd year(completed 2 semesters).
+But now what? keep making useless projects doesn't make sense and now you are in your 2nd year(completed 2 semesters).
 
-Need to do something that will get you landed with a good package in an MNC two years later.
+Need to do something that will get you landed with a good package in a MNC two years later.
 
 
 First, quickly google these technologies and try to understand what these are and then continue reading further-
