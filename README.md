@@ -77,8 +77,11 @@ Some Online Coding competition sites are-
 
 ### Technologies
 Ok, so you have done above said things, cool!
+
 But now what? keep making useless project doesn't make sense and now you are in your 2nd year(completed 2 semesters).
+
 Need to do something that will get you landed with a good package in an MNC two years later.
+
 
 First, quickly google these technologies and try to understand what these are and then continue reading further-
 * Machine Learning, Deep Learning
@@ -92,6 +95,7 @@ First, quickly google these technologies and try to understand what these are an
 * IoT
 
 Computer Science is huge and you cannot master everything. You need to choose a domain of your interest. The above was a list of various new fields that this decade saw. There are other domains like cybersecurity also that you should consider.
+
 Choose a domain that interests you a lot. If you are confused then try to understand them more and see what should be best for you. Take your time as much as you want.
 
 Once you have chosen then start from basics and then move towards advance and keep reading every day. Then move towards reading specifications docs, internet-drafts, standards set by different global standard-setting organisations like ETSI, IEEE, IETF, etc. and discover possibilities of future development in your technology. Start working on those.
