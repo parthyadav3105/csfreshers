@@ -20,28 +20,42 @@
 
 
 ### Welcome :)
-Welcome to the world of tech-wizards.
+Welcome to the world of tech-wizards.Good to see u here.
 
 
 ### About
-A guide-page for all freshers who just took Computer Science as a major.
+A guide-page for all freshers who just took Computer Science as a major. The following is a list of all common things in our community that you may not be aware of yet.
+
+Also, the order of topics kept in focus for beginners for those who are not sure what to do first.
 
 
 ### Learning your first language
-While learning you first language, kindly give more time practicing it and understanding what happens in that black-box when you double click a program that you just wrote.
+While learning you first language, kindly give more time practicing it. Make your fundamentals strong and improve for coding style, learn to add better comments. Then moving further try to write optimised code.
 
 If your programming concepts are clear and you have a strong foundation in your first language, then learning a new language will just be a matter of 7 to 8 hours max.
 
+Here are few good reads for better conding style:
+* [Good coding style](http://www.inf.unibz.it/~nutt/Teaching/DSA1819/DSAAssignments/good-coding-style.html)
+* [15 best practices for writing readable code](https://code.tutsplus.com/tutorials/top-15-best-practices-for-writing-super-readable-code--net-8118)
+
 
 ### Learning basics
-Once you feel comfortable with making your console type school management programs, then its time you learn some basics like-<br>
+Cool, if by now you have completed [Learn your first language](#learning-your-first-language) then it's time to build some basics. The following is a list of very common things that you may use as a developer.
+
 * Data Structures - [Geeks-for-Geeks](https://www.geeksforgeeks.org/data-structures/)
 * Algorithms - [Geeks-for-Geeks](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 * Basic HTML5, CSS3 - [W3-School](https://www.w3schools.com/html/default.asp)
 * JSON, YAML
+* Linux (Ubuntu recommended for beginners)
 * Docker - [Docker](https://docs.docker.com/get-started/)
 * Git - the version control system - [Git-braching](https://learngitbranching.js.org/)
+* Databases (Mysql, mongodb,..)
+* Makefiles and shell-scripting
 
+By now you may have completed your first semester and you have learnt to code properly and know some basics. So, you are looking forward for praticing your knowledge. You have two options:
+* [Online coding competitions](#online-coding-competitions), (which is my next topic) and
+* Making some projects
+Here is a good list of [projects ideas](https://www.freecodecamp.org/news/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a/) that you can make. You can also, add your project's repositories to your github account. You can share these repositories link with others to give them idea about your skills.
 
 ### Online coding competitions
 There are many good online coding competition sites for you to practice your skills. Once you get comfortable with the basics, then you would love to practice or compete with other programmers around the globe.
@@ -61,7 +75,11 @@ Some Online Coding competition sites are-
 
 
 ### Technologies
-Quickly google these technologies and try understand what these are-
+Ok, so you have done above said things, cool!
+But now what? keep making useless project doesn't make sense and now you are in your 2nd year(completed 2 semesters).
+Need to do some thing that will get you landed with a good package in a MNC two years later.
+
+First, quickly google these technologies and try understand what these are and then continue reading further-
 * Machine Learning, Deep Learning
 * Blockchain
 * Serverless
@@ -72,12 +90,20 @@ Quickly google these technologies and try understand what these are-
 * NVF, VNF
 * IOT
 
+Computer Science is a huge and you cannot master everthing. You need to choose a domian of your interest. The above was a list of various new fields that this decade saw. There are other domains like cyber security also that you should consider.
+Choose a domain that interests you a lot. If you are confused then try to understand them more and see what should be best for you. Take your time as much as you want.
+
+Once you have choosen then start from basics and then move towards advance and keep reading every day. Then move towards reading specifications docs, internet-drafts, standards set by different global standard setting organisations like ETSI, IEEE, IETF,etc. and discover possibilties of future development in your technology. Start working on those.
+
+----
+Now, in the following list the order doesn't matter. You can try them as you want, once you have gone through above steps-
+
 ### Write Blogs
-You have came a long way by now after crossing many hurdles, and now its time to give back to the community. What ever you have learnt in your technology start sharing your knowledge to the world through blogs or videos on platform like youtube. Also, will help you add more followers to your twiter account ;) 
+You have came a long way by now after crossing many hurdles, and now its time to give back to the community. What ever you have learnt in your technology start sharing your knowledge to the world through blogs or videos on platform like youtube. Also, this will help you add more followers to your twiter account ;) 
 
 
 ### Go to Hackathons
-Start going to hackathons.
+Now, you have enough knowledge. Start going to hackathons. Make new teams, meet new people. Explore more.
 
 Read more about hackathons [here](https://www.hackerearth.com/hackathon/).
 
@@ -94,6 +120,8 @@ These communities-
 Go to meetups.
 
 You can get to know about meetups from [meetup.com](https://www.meetup.com/).
+
+You can also be a speaker at meetups. Try speaking at meetups and some day you will be speaking in huge confernces also with thousands of visitors.
 
 
 
@@ -125,8 +153,9 @@ Read as much as you can. Don't wait for anyone to come and teach something. Just
 
 ### Thank you !!
 I thank you for reading this long :)
-
-Star if you like.
+You can give your feedback by commenting in feedback issue.
+Also, suggestions for improving this doc are open.
+Share this with your 1st year juniors to help them out in building their future path.
 
 [Parth Yadav](https://twitter.com/Asha_Seema_)
 
