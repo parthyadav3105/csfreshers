@@ -155,6 +155,6 @@ Share this with your 1st year juniors to help them out in building their future 
 
 [Parth Yadav](https://twitter.com/Asha_Seema_)
 
-Star if you like:)
+Star repo if you like:)
 
 
