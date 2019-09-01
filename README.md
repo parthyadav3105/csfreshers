@@ -50,7 +50,7 @@ Cool, if by now you have completed [Learn your first language](#learning-your-fi
 * Docker - [Docker](https://docs.docker.com/get-started/)
 * Git - the version control system - [Git-braching](https://learngitbranching.js.org/)
 * Databases (Mysql, mongodb,..)
-* Makefiles and shell-scripting
+* Makefiles and compiling code through terminal
 
 By now you may have completed your first semester and you have learnt to code properly and know some basics. So, you are looking forward for praticing your knowledge. You have two options:
 * [Online coding competitions](#online-coding-competitions), (which is my next topic) and
@@ -147,10 +147,6 @@ Check this awesome [list](https://github.com/tapaswenipathak/Open-Source-Interns
 In bug bounty programs you have to find bugs and you get paid for reporting bugs, especially those pertaining to exploits and vulnerabilities.
 
 
-### Personal note
-Read as much as you can. Don't wait for anyone to come and teach something. Just go to the web and start learning.
-
-
 ### Thank you !!
 I thank you for reading this long :)
 You can give your feedback by commenting in feedback issue.
@@ -158,6 +154,6 @@ Also, suggestions for improving this doc are open.
 Share this with your 1st year juniors to help them out in building their future path.
 
 [Parth Yadav](https://twitter.com/Asha_Seema_)
-
+Star if you like:)
 
 
