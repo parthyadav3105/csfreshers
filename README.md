@@ -30,7 +30,7 @@ Also, the order of topics is kept in focus for beginners for those who are not s
 
 
 ### Learning your first language
-While learning your first language, kindly give more time to practising it. Make your fundamentals strong and improve for coding style, learn to add better comments. Then moving further try to write optimised code.
+While learning your first language, kindly give more time to practising it. Make your fundamentals strong and improve coding style, learn to add better comments. Then moving further try to write optimised code.
 
 If your programming concepts are clear and you have a strong foundation in your first language, then learning a new language will just be a matter of 7 to 8 hours max.
 
