@@ -157,9 +157,13 @@ In bug bounty programs you have to find bugs and you get paid for reporting bugs
 
 ### Thank you !!
 I thank you for reading this long :)
+
 You can give your feedback by commenting on the [feedback issue](https://github.com/parthyadav3105/csfreshers/issues/2).
+
 Also, suggestions for improving this doc are open.
+
 Share this with your 1st-year juniors to help them out in building their future path.
+
 
 Star repo if you like:)
 
