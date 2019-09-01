@@ -8,13 +8,14 @@
 3. [Learning basics](#learning-basics)
 4. [Online coding competitions](#online-coding-competitions)
 5. [Technologies](#technologies)
-6. [Go to Hackathons](#go-to-hackathons)
-7. [Join developer communities in your area](#join-developer-communities-in-your-area)
-8. [Meetups](#meetups)
-9. [Open source contributions](#open-source-contributions)
-10. [Internships](#internships)
-11. [Bug Bounty Programs](#bug-bounty-programs)
-12. [Thank you!!](#thank-you-)
+6. [Write Blogs](#write-blogs)
+7. [Go to Hackathons](#go-to-hackathons)
+8. [Join developer communities in your area](#join-developer-communities-in-your-area)
+9. [Meetups](#meetups)
+10. [Open source contributions](#open-source-contributions)
+11. [Internships](#internships)
+12. [Bug Bounty Programs](#bug-bounty-programs)
+13. [Thank you!!](#thank-you-)
 
 
 
@@ -67,7 +68,12 @@ Quickly google these technologies and try understand what these are-
 * Augmented reality(AR) and virtual reality(VR)
 * Multi-access Edge Computing(MEC)
 * Quantum Computing
-* SDN, NVF, VNF
+* SDN, 
+* NVF, VNF
+* IOT
+
+### Write Blogs
+You have came a long way by now after crossing many hurdles, and now its time to give back to the community. What ever you have learnt in your technology start sharing your knowledge to the world through blogs or videos on platform like youtube. Also, will help you add more followers to your twiter account ;) 
 
 
 ### Go to Hackathons
