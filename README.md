@@ -24,9 +24,9 @@ Welcome to the world of tech-wizards.Good to see u here.
 
 
 ### About
-A guide-page for all freshers who just took Computer Science as a major. The following is a list of all common things in our community that you may not be aware of yet.
+A guide-page for all freshers who just took Computer Science as their major. The following is a list of all common things in our community that you may not be aware of yet.
 
-Also, the order of topics kept in focus for beginners for those who are not sure what to do first.
+Also, the order of topics is kept in focus for beginners for those who are not sure what to do first.
 
 
 ### Learning your first language
