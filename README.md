@@ -95,6 +95,9 @@ Choose a domain that interests you a lot. If you are confused then try to unders
 
 Once you have chosen then start from basics and then move towards advance and keep reading every day. Then move towards reading specifications docs, internet-drafts, standards set by different global standard-setting organisations like ETSI, IEEE, IETF, etc. and discover possibilities of future development in your technology. Start working on those.
 
+
+
+
 ----
 Now, in the following list, the order doesn't matter. You can try them as you want, once you have gone through the above steps-
 
@@ -153,8 +156,5 @@ You can give your feedback by commenting on the [feedback issue](https://github.
 Also, suggestions for improving this doc are open.
 Share this with your 1st-year juniors to help them out in building their future path.
 
-[Parth Yadav](https://twitter.com/Asha_Seema_)
-
 Star repo if you like:)
-
 
