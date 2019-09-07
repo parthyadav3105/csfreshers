@@ -87,14 +87,14 @@ First, quickly google these technologies and try to understand what these are an
 * Machine Learning, Deep Learning
 * Blockchain
 * Serverless
-* Augmented reality(AR) and virtual reality(VR)
+* Extended Reality- XR {Augmented reality(AR), Mixed Reality(MR) Virtual Reality(VR)}
 * Multi-access Edge Computing(MEC)
 * Quantum Computing
 * SDN, 
 * NVF, VNF
 * IoT
 
-Computer Science is huge and you cannot master everything. You need to choose a domain of your interest. The above was a list of various new fields that this decade saw. There are other domains like cybersecurity also that you should consider.
+Computer Science is huge and you cannot master everything. You need to choose a domain of your interest. The above was a list of various new fields that this decade saw. There are other domains like cybersecurity, game dev, graphic designing(3d, logo, poster, UI, etc) also that are quite old but you should consider as they do have high pay.
 
 Choose a domain that interests you a lot. If you are confused then try to understand them more and see what should be best for you. Take your time as much as you want.
 
