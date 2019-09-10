@@ -75,12 +75,12 @@ Some Online Coding competition sites are-
 * [HackerEarth](https://www.hackerearth.com/challenges/)
 * [HackerRank](https://www.hackerrank.com/contests)
 * [TopCoder](https://www.topcoder.com/)
-* [List of live competitions](https://clist.by/)
+* [List of Live Competitions](https://clist.by/)
 * Many others can be added to make this list very long. So go [here](https://github.com/anu0012/awesome-computer-science-opportunities#competitive-programming) for more.
 
 
 ### Websites to Visit
-There are some useful sites you must visit to get always informed in order to do your technologies even better and learn new things.
+There are some useful sites you must visit to get always informed in order to do your technologies even better and learn new techs, frameworks, libraries, etc.
 
 When you get stuck-
 * [Stack Overflow](https://stackoverflow.com/)
@@ -90,8 +90,7 @@ To Learn and Stay Updated-
 * [Medium](https://medium.com/)
 * [The DEV Community](https://dev.to/)
 * [freeCodeCamp](https://www.freecodecamp.org/)
-
-Many others click [here](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) for more. 
+* Many others click [here](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) for more. 
 
 
 ### Technologies
