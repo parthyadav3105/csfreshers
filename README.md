@@ -49,7 +49,7 @@ Cool, if by now you have completed [Learn your first language](#learning-your-fi
 * JavaScript - [Mozilla-JavaScript-Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 * JSON, YAML, XML
 * Linux (Ubuntu recommended for beginners)
-* Docker - containerizing app - [Docker](https://docs.docker.com/get-started/)
+* Docker - [Docker](https://docs.docker.com/get-started/)
 * Git - the version control system - [Git-branching](https://learngitbranching.js.org/)
 * RestAPI and GraphQL
 * Databases (Mysql, MongoDB,..)
@@ -80,17 +80,7 @@ Some Online Coding competition sites are-
 
 
 ### Websites to Visit
-There are some useful sites you must visit to get always informed in order to do your technologies even better and learn new techs, frameworks, libraries, etc.
-
-When you get stuck-
-* [Stack Overflow](https://stackoverflow.com/)
-* [GitHub](https://www.github.com/)
-
-To Learn and Stay Updated-
-* [Medium](https://medium.com/)
-* [The DEV Community](https://dev.to/)
-* [freeCodeCamp](https://www.freecodecamp.org/)
-* Many others click [here](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) for more. 
+There are some useful sites that you may visit regularly to get informed to do your technologies even better and learn new techs, frameworks, libraries, etc. Checkout this [list](https://github.com/sdmg15/Best-websites-a-programmer-should-visit).
 
 
 ### Technologies
@@ -109,8 +99,8 @@ First, quickly google these technologies and try to understand what these are an
 * Extended Reality- XR {Augmented reality(AR), Mixed Reality(MR) Virtual Reality(VR)}
 * Multi-access Edge Computing(MEC)
 * Quantum Computing
-* Software-defined Networking(SDN)
-* Network Virtualization(NVF, VNF,..)
+* Software Defined Networking(SDN)
+* Network Function Virtualization(NFV), Virtual Network Functions(VNF)
 * Internet of Things(IoT)
 
 Computer Science is huge and you cannot master everything. You need to choose a domain of your interest. The above was a list of various new fields that this decade saw. There are other domains like Cybersecurity, Web Development, Game Dev, Graphic Designing(3d, 2d, logo, poster, UI/UX, etc) also that are quite old but you should consider as they do have high pay.
