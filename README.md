@@ -7,6 +7,7 @@
 2. [Learn your first language](#learning-your-first-language)
 3. [Learning basics](#learning-basics)
 4. [Online coding competitions](#online-coding-competitions)
+5. [Websites to Visit](#websites-to-visit)
 5. [Technologies](#technologies)
 6. [Write Blogs](#write-blogs)
 7. [Go to Hackathons](#go-to-hackathons)
@@ -20,11 +21,11 @@
 
 
 ### Welcome :)
-Welcome to the world of tech-wizards.Good to see u here.
+Welcome to the world of tech-wizards. Good to see u here.
 
 
 ### About
-A guide-page for all freshers who just took Computer Science as their major. The following is a list of all common things in our community that you may not be aware of yet.
+A guide-page for all freshers who just took Computer Science as their major. The following is a list of all things in our community that you may not be aware of yet.
 
 Also, the order of topics is kept in focus for beginners for those who are not sure what to do first.
 
@@ -45,10 +46,12 @@ Cool, if by now you have completed [Learn your first language](#learning-your-fi
 * Data Structures - [Geeks-for-Geeks](https://www.geeksforgeeks.org/data-structures/)
 * Algorithms - [Geeks-for-Geeks](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 * Basic HTML5, CSS3 - [W3-School](https://www.w3schools.com/html/default.asp)
-* JSON, YAML
+* JavaScript - [Mozilla-JavaScript-Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+* JSON, YAML, XML
 * Linux (Ubuntu recommended for beginners)
 * Docker - [Docker](https://docs.docker.com/get-started/)
 * Git - the version control system - [Git-branching](https://learngitbranching.js.org/)
+* RestAPI and GraphQL
 * Databases (Mysql, MongoDB,..)
 * Makefiles and compiling code in terminal
 
@@ -72,7 +75,12 @@ Some Online Coding competition sites are-
 * [HackerEarth](https://www.hackerearth.com/challenges/)
 * [HackerRank](https://www.hackerrank.com/contests)
 * [TopCoder](https://www.topcoder.com/)
+* [List of Live Competitions](https://clist.by/)
 * Many others can be added to make this list very long. So go [here](https://github.com/anu0012/awesome-computer-science-opportunities#competitive-programming) for more.
+
+
+### Websites to Visit
+There are some useful sites that you may visit regularly to get informed to do your technologies even better and learn new techs, frameworks, libraries, etc. Checkout this [list](https://github.com/sdmg15/Best-websites-a-programmer-should-visit).
 
 
 ### Technologies
@@ -87,14 +95,15 @@ First, quickly google these technologies and try to understand what these are an
 * Machine Learning, Deep Learning
 * Blockchain
 * Serverless
+* BigData
 * Extended Reality- XR {Augmented reality(AR), Mixed Reality(MR) Virtual Reality(VR)}
 * Multi-access Edge Computing(MEC)
 * Quantum Computing
-* SDN, 
-* NVF, VNF
-* IoT
+* Software Defined Networking(SDN)
+* Network Function Virtualization(NFV), Virtual Network Functions(VNF)
+* Internet of Things(IoT)
 
-Computer Science is huge and you cannot master everything. You need to choose a domain of your interest. The above was a list of various new fields that this decade saw. There are other domains like cybersecurity, game dev, graphic designing(3d, logo, poster, UI, etc) also that are quite old but you should consider as they do have high pay.
+Computer Science is huge and you cannot master everything. You need to choose a domain of your interest. The above was a list of various new fields that this decade saw. There are other domains like Cybersecurity, Web Development, Game Dev, Graphic Designing(3d, 2d, logo, poster, UI/UX, etc) also that are quite old but you should consider as they do have high pay.
 
 Choose a domain that interests you a lot. If you are confused then try to understand them more and see what should be best for you. Take your time as much as you want.
 
@@ -163,5 +172,5 @@ Also, suggestions for improving this doc are open.
 Share this with your 1st-year juniors to help them out in building their future path.
 
 
-Star repo if you like:)
+Star repo if you like :)
 
